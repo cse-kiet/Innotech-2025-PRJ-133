@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1023586782982",
+    "project_id": "self-guardian",
+    "storage_bucket": "self-guardian.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1023586782982:android:4bf0331ea76a2c2b901887",
+        "android_client_info": {
+          "package_name": "com.example.selfguardian"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1023586782982-h08tsomflt8usdokisrrovpbhoogs7gr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.selfguardian",
+            "certificate_hash": "1174907bc07c6dfc06530e7e4e090ddb34fb3b4c"
+          }
+        },
+        {
+          "client_id": "1023586782982-b9fftks1t7ij45bif807kl00lvqasc5p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcaQM24DfejLlDiI-ohsgrFYoI-CH3JDY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1023586782982-b9fftks1t7ij45bif807kl00lvqasc5p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
